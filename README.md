@@ -1,3 +1,4 @@
+<img width="1286" height="812" alt="Screenshot 2026-04-18 at 2 09 15 PM" src="https://github.com/user-attachments/assets/8ab457b2-1713-42d5-84a7-96874650c76f" />
 # SaaS Pricing Intelligence Tracker
 
 Track and analyze pricing strategies across 50+ Sales & Revenue SaaS companies.
