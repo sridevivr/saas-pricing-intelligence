@@ -1,0 +1,9 @@
+raw_pages/
+snapshots/
+pricing_data.csv
+pricing_data.json
+scrape_log.csv
+pricing_changes.csv
+pricing_changes.json
+change_report.md
+__pycache__/
