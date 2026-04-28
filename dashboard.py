@@ -51,7 +51,8 @@ def load_json_data():
 def main():
     # --- Header ---
     st.title("📊 SaaS Pricing Intelligence Tracker")
-    st.markdown("**Sales & Revenue Sector** — Real-time pricing analysis across 90+ companies")
+    total_companies = "150+"
+    st.markdown("**SaaS Pricing Intelligence** — Real-time pricing analysis across " + total_companies + " companies")
     st.divider()
 
     # Load data
@@ -64,6 +65,12 @@ def main():
     # --- Sidebar Filters ---
     st.sidebar.header("Filters")
 
+    if "sector" in df.columns:
+        sectors = ["All"] + sorted(df["sector"].dropna().unique().tolist())
+        selected_sector = st.sidebar.selectbox("Sector", sectors)
+    else:
+        selected_sector = "All"
+
     subsectors = ["All"] + sorted(df["subsector"].dropna().unique().tolist())
     selected_sub = st.sidebar.selectbox("Subsector", subsectors)
 
@@ -74,6 +81,10 @@ def main():
 
     # Apply filters
     filtered = df.copy()
+    if selected_sector != "All":
+        filtered = filtered[filtered["sector"] == selected_sector]
+        # Update subsector list based on selected sector
+        subsectors = ["All"] + sorted(filtered["subsector"].dropna().unique().tolist())
     if selected_sub != "All":
         filtered = filtered[filtered["subsector"] == selected_sub]
     if selected_model != "All":

@@ -203,7 +203,7 @@ def flatten_for_csv(data):
 
     base = {
         "company": company,
-        "sector": "Sales & Revenue",
+        "sector": data.get("sector", "Unknown"),
         "subsector": subsector,
         "has_public_pricing": data.get("has_public_pricing"),
         "pricing_model": data.get("pricing_model"),
@@ -278,6 +278,7 @@ def run_classifier(company_filter=None, dry_run=False):
 
     for idx, row in scraped.iterrows():
         company = row["company"]
+        sector = row.get("sector", "Unknown")
         subsector = row.get("subsector", row.get("subcategory", "Unknown"))
 
         print("")
@@ -293,6 +294,7 @@ def run_classifier(company_filter=None, dry_run=False):
 
         if result["success"]:
             data = result["data"]
+            data["sector"] = sector
             tier_count = len(data.get("tiers", []))
             model = data.get("pricing_model", "unknown")
             print("OK (" + str(tier_count) + " tiers, model: " + model + ")")
