@@ -1,256 +1,280 @@
 # SaaS Pricing Change Report
 
-**Period:** 2026-04-18 to 2026-04-20
-**Generated:** 2026-04-20 20:28
+**Period:** 2026-04-20 to 2026-04-27
+**Generated:** 2026-04-27 23:34
 
 ## Summary
 
-- **129** pricing changes detected
-- **35** companies made changes
+- **140** pricing changes detected
+- **39** companies made changes
 
 ## Changes by Type
 
+- **Ai Feature Added**: 56
 - **Ai Feature Removed**: 52
-- **Ai Feature Added**: 43
-- **Tier Added**: 12
-- **Tier Removed**: 10
-- **Tier Count Change**: 6
-- **Model Change**: 4
-- **Company Removed**: 1
+- **Tier Removed**: 8
+- **Tier Added**: 8
+- **Model Change**: 5
+- **Tier Count Change**: 5
+- **Price Increase**: 4
 - **Company Added**: 1
+- **Company Removed**: 1
 
 ## Changes by Company
 
 ### Allego
 
-- AI features added: Automated recording and performance analysis
-- AI features added: AI-driven reinforcement, Automated conversation intelligence
-- AI features removed: AI-generated highlights, AI-driven reinforcement drills, Automated coaching guidance
+- AI features added: GenAI powered search and filtering, AI-driven reinforcement drills, Conversation Intelligence, Automated coaching guidance
+- AI features removed: GenAI powered search, AI-driven reinforcement, Automated conversation intelligence
+- AI features added: GenAI search for content discovery
+- AI features added: Conversation Intelligence
+- AI features removed: Automated recording and performance analysis
 
 ### Attio
 
-- AI features removed: Auto-labeling, Auto-summaries
-- AI features removed: AI agents
+- AI features added: AI agents
+- AI features removed: Auto-summaries, Auto-labeling
+- AI features removed: Call Intelligence, Auto-summaries, Auto-labeling
 
 ### Avoma
 
-- AI features removed: Real-time Lead Qualification and Routing
-- AI features added: AI-powered Deal Risk Alerts
-- AI features removed: AI Deal Risk Alerts
-- AI features added: Smart Playlist & AI Automations, Limited Conversation Intelligence, Custom AI Notes
-- AI features removed: Conversation Intelligence, AI Automations
-- AI features removed: Team-Specific Access Controls, Unlimited Usage Intelligence
+- AI features added: AI Automations, Conversation Intelligence
+- AI features removed: Custom AI Notes, Limited Conversation Intelligence, Smart Playlist & AI Automations
+- AI features removed: Smart Playlists
+
+### Bigtincan
+
+- AI features added: AI insights
 
 ### BoostUp
 
-- Company no longer in dataset
+- New company added to dataset
 
 ### Close
 
-- AI features added: AI Enrich, AI Call Assistant (add-on), Predictive Dialer
-- AI features added: AI Enrich, AI Call Assistant (add-on)
+- AI features added: Chloe (AI sales agent) - free in beta, AI Lead Summaries
+- AI features removed: Chloe (AI sales agent) - Free in Beta
+- AI features added: AI Email Rewrite
+- AI features removed: AI Enrich, AI Call Assistant (add-on)
+- AI features added: Chloe (AI sales agent) - free in beta
+- AI features removed: Chloe (AI sales agent) - Free in Beta
+- AI features added: AI Email Rewrite
+- AI features removed: Predictive Dialer, AI Call Assistant (add-on)
 
 ### Cognism
 
-- Pricing model changed from hybrid to custom_only
-- Number of tiers changed from 2 to 4
-- New tier 'data-as-a-service' added
-- New tier 'crm enrichment' added
+- Pricing model changed from custom_only to hybrid
+- Number of tiers changed from 4 to 2
+- Tier 'data-as-a-service' was removed
+- Tier 'crm enrichment' was removed
 
-### Dealfront
+### Copper
 
-- AI features added: ICP Insights
+- Price increase from $9 to $12 (+33.3%)
+- Price increase from $59 to $69 (+16.9%)
+- Price increase from $23 to $29 (+26.1%)
+- Price increase from $99 to $134 (+35.4%)
+
+### DealHub
+
+- AI features added: AI Contract Search & Insights
+- AI features added: AI Contract Search & Insights
+- AI features removed: AI Contract Search & Insights (coming soon)
+
+### DocuSign
+
+- Number of tiers changed from 3 to 5
+- New tier 'business pro unlimited' added
+- New tier 'professional' added
 
 ### Dreamdata
 
-- Tier 'dreamdata free' was removed
-- AI features added: Advanced Attribution, AI-based attribution models
-- AI features removed: AI-based customer journey insights, AI-based attribution
-- New tier 'free' added
+- AI features added: AI-based attribution, AI buyer identification
+- AI features removed: AI-based attribution models, Advanced Attribution
+- Tier 'free' was removed
+- New tier 'dreamdata free' added
 
 ### Fathom
 
-- AI features added: Custom meeting bot
-- AI features removed: AI search alerts, Ask Fathom: AI within a single call
-- AI features added: Custom meeting bot
-- AI features removed: Ask Fathom: AI within a single call
-- AI features removed: Automated summaries
-- AI features added: Custom meeting bot, Coaching metrics and AI scorecards
-- AI features removed: Coaching metrics, Ask Fathom: AI for all calls, AI scorecards, AI search alerts
+- AI features added: Ask Fathom, AI search alerts, Claude & ChatGPT integrations
+- AI features removed: Custom meeting bot
+- AI features added: Automated summaries
+- AI features added: Ask Fathom
+- AI features removed: Custom meeting bot
+- AI features added: Ask Fathom, AI search alerts, Claude & ChatGPT integrations
+- AI features removed: Custom meeting bot
 
 ### Fireflies.ai
 
-- AI features added: AskFred: AI assistant
-- AI features added: Conversation intelligence
+- AI features removed: Conversation intelligence
+- AI features removed: Multi-language Mode
 
 ### Folk
 
-- AI features added: Relationship intelligence
-- AI features removed: Research Assistant, Recap Assistant, Workflow Assistant, Follow-up Assistant
+- AI features removed: Research Assistant, Workflow Assistant, Follow-up Assistant, Recap Assistant
+- AI features removed: Magic fields (AI), AI Assistants
+- AI features added: Magic fields, AI fields
+- AI features removed: Follow-up Assistant, AI Assistants, Workflow Assistant, Magic fields (AI), Recap Assistant, Research Assistant, Relationship intelligence
+
+### GetAccept
+
+- AI features added: Meeting summarizer, AI Editor, AI Knowledge base, Smart content
+
+### Highspot
+
+- AI features added: Automated nudging
+- AI features removed: Highspot for Microsoft Copilot for Sales, Highspot for Agentforce, Highspot for Slack AI
 
 ### Hunter.io
 
-- Pricing model changed from hybrid to usage_based
-- AI features added: AI Assistant in Discover
-- AI features removed: 15 included proactive suggestions/month, AI Assistant in Discover (10 included searches/month)
-- AI features added: AI Assistant in Discover
-- AI features removed: AI Assistant in Discover (300 included searches/month), 900 included proactive suggestions/month
-- AI features added: AI Assistant in Discover
-- AI features removed: AI Assistant in Discover (50 included searches/month), 150 included proactive suggestions/month
-- AI features added: AI Assistant in Discover
-- AI features removed: AI Assistant in Discover (150 included searches/month), 450 included proactive suggestions/month
+- Pricing model changed from usage_based to hybrid
 
 ### Instantly
 
-- AI features added: AI Email Writer Agent, Instantly Web Researcher Agent, Access to 5 Major LLMs
-- AI features added: AI Email Writer Agent, Instantly Web Researcher Agent, Access to 5 Major LLMs
-- Tier 'growth (lead database)' was removed
-- New tier 'growth (leads)' added
+- Tier 'growth (leads)' was removed
+- New tier 'growth (lead database)' added
 
 ### Invoca
 
-- AI features removed: PreSense (included), Signal AI conversation analytics suite (add-on), AI-Powered Quality Management (add-on)
-- AI features removed: Signal AI conversation analytics suite (add-on), PreSense AI-Powered Quality Management (add-on)
-- AI features removed: Signal AI conversation analytics suite (add-on), PreSense AI-Powered Quality Management (add-on)
+- AI features added: Signal AI conversation analytics suite (optional add-on), AI-Powered Quality Management (optional add-on)
+- AI features added: Signal AI conversation analytics suite (optional add-on), AI-Powered Quality Management (optional add-on)
+- AI features added: Signal AI conversation analytics suite (optional add-on), AI-Powered Quality Management (optional add-on)
 
 ### Kaspr
 
-- Number of tiers changed from 3 to 4
-- New tier 'organization' added
+- Number of tiers changed from 4 to 3
+- Tier 'organization' was removed
 
 ### Klenty
 
-- AI features added: AI Coaching Summary+ Notes
-- AI features removed: AI Coaching Summary + Notes, AI Battlecards
-- AI features added: Action AI (Automatic Execution of Next Steps Post-Conversation)
-- AI features removed: Action AI (Automatic Execution of Next Steps)
+- AI features added: AI Coaching Summary + Notes
+- AI features removed: AI Coaching Summary+ Notes
 
 ### Lemlist
 
-- Number of tiers changed from 3 to 2
-- Tier 'enterprise' was removed
+- Pricing model changed from per_seat to hybrid
+- Number of tiers changed from 2 to 4
+- New tier 'data & lead generation - intent signals' added
+- New tier 'data & lead generation - email finder' added
 
 ### LinkedIn Sales Navigator
 
-- AI features added: Account IQ, Lead IQ
-- AI features removed: Account IQ & Lead IQ
-- AI features added: Account IQ, Lead IQ
-- AI features removed: Account IQ & Lead IQ
-- AI features added: Account IQ, Lead IQ
-- AI features removed: Account IQ & Lead IQ
-
-### Mailshake
-
-- Number of tiers changed from 4 to 3
-- Tier 'agency plan' was removed
-- AI features removed: AI email writing with SHAKESpeare
-- AI features removed: AI email writing with SHAKESpeare
+- AI features added: Account IQ & Lead IQ
+- AI features removed: Lead IQ, Account IQ
+- AI features added: Account IQ & Lead IQ
+- AI features removed: Lead IQ, Account IQ
+- AI features added: Account IQ & Lead IQ
+- AI features removed: Lead IQ, Account IQ
 
 ### Mailstand
 
-- Pricing model changed from usage_based to per_seat
-- Number of tiers changed from 5 to 4
-- Tier 'unlimited' was removed
-- New tier 'scale' added
-- New tier 'growth' added
-- Tier 'business' was removed
-- Tier 'enterprise' was removed
+- New tier 'advanced' added
+- New tier 'pro' added
+- Tier 'scale' was removed
+- Tier 'growth' was removed
 
 ### Mixmax
 
-- AI features removed: Smart compose, Smart signals
-- AI features removed: Sequence personalization
-- AI features removed: Draft follow-up emails, Instant meeting notes
-- AI features removed: Smart compose, Smart signals
+- AI features added: Sequence personalization
+- AI features removed: Engagement Copilot
+- AI features added: Smart signals, Smart send, Smart compose
+- AI features removed: Inbox Copilot
+- AI features added: Automatic meeting followups, Instant meeting notes, Post-meeting summaries
+- AI features removed: Meeting Copilot
+- AI features added: Smart send, Smart compose, Instant meeting notes, Post-meeting summaries
 
 ### Monday Sales CRM
 
-- AI features added: AI email generator, Monday AI credits
-- AI features removed: Monday AI (AI credits)
-- AI features added: Monday AI credits
-- AI features removed: Monday AI (AI credits)
-- AI features added: Monday AI credits
-- AI features removed: Monday AI (AI credits)
-- AI features added: Monday AI credits
-- AI features removed: Monday AI (AI credits), Notetaker hours
+- AI features added: AI credits, Monday AI
+- AI features removed: Monday AI credits, Notetaker hours
+- AI features added: AI credits, Monday AI
+- AI features removed: Monday AI credits, AI Sidekick (lite), Notetaker hours
+- AI features added: AI credits, Monday AI
+- AI features removed: Monday AI credits, Notetaker hours
+- AI features added: AI credits, Monday AI
+- AI features removed: Monday AI credits
 
 ### Nimble
 
-- Tier 'standard plan' was removed
-- New tier 'business plan' added
+- AI features added: AI Prospect Marketing & Outreach
 
 ### Nutshell
 
-- AI features removed: AI Agent Marketplace
-- AI features removed: AI Chatbot, AI Agent Marketplace
-- AI features removed: AI lead recaps & next steps, AI Chatbot, AI Agent Marketplace
-- AI features removed: AI Chatbot, AI Agent Marketplace
-- AI features removed: AI lead recaps & next steps, AI Chatbot, AI Agent Marketplace
+- AI features added: AI Agent Marketplace
 
 ### Otter.ai
 
-- Pricing model changed from hybrid to per_seat
-- AI features added: AI Chat (50 queries per user), Automated summaries with action items
-- AI features added: AI Chat, Automated summaries with action items and outlines
-- AI features removed: AI Chat within and across meetings
-- AI features added: Automated summaries, AI Chat (200 queries per user), Otter Sales Notetaker
+- Pricing model changed from per_seat to hybrid
+- AI features added: AI Chat within and across meetings, Live transcription
+- AI features removed: AI Chat
+- AI features added: AI Chat (50 queries/user/month), Automated summaries, Custom vocabulary
+- AI features removed: AI Chat (50 queries per user), Automated summaries with action items
+- AI features added: AI Chat (200 queries/user/month), Advanced AI meeting templates
+- AI features removed: AI Chat (200 queries per user)
+
+### Outreach
+
+- Pricing model changed from per_seat to hybrid
+- AI features added: AI Assist, Revenue Agent, Conversation Intelligence, Research Agent, Personalization Agent, Data Enrichment
+- AI features removed: Post-call Conversation Intelligence, Research, Revenue & Personalization AI Agents, Smart Data Enrichment
+- AI features added: AI Forecast Projection, AI Assist: Forecasting
+- AI features removed: AI Projection
+- AI features added: AI Assist, Action Item Detection, AI Coach Cards, Deal Agent, Live Coaching, Meeting Prep Agent, Real-Time Transcription, Sentiment Analysis, AI Topics & Topic Explorer, AI Summaries
+- AI features removed: AI-Assisted Coaching, Real-time Transcription & Content Cards, Smart Meeting & Deal Assist
 
 ### PandaDoc
 
-- Tier 'free' was removed
-- New tier 'enterprise' added
+- Number of tiers changed from 4 to 3
+- Tier 'enterprise' was removed
 
 ### QuotaPath
 
-- AI features added: AI Powered Plan Builder
+- AI features removed: AI Powered Plan Builder
 
 ### Revenue.io
 
-- AI features added: Ask Revenue (AI Deal/Call/Account queries), AI Scorecards, AI Coaching Feedback
-- AI features removed: Ask Revenue (AI queries), AI Coaching Feedback & AI Scorecards
-- AI features added: AI-prioritized follow-up
-- AI features removed: Guided Selling AI cadences
+- AI features added: Ask Revenue (AI queries), Deal Scoring & Pipeline Risk, Agentic AI custom agents
+- AI features removed: Agentic AI to build custom agents, Ask Revenue (AI Deal/Call/Account queries), Deal Scoring & Pipeline Risk Insights
+- AI features added: AI call summaries
+- AI features removed: CallerDNA
+- AI features added: Guided Selling AI cadences
+- AI features removed: AI-prioritized follow-up
 
 ### Salesforce Sales Cloud
 
-- AI features added: Opportunity Scoring, Lead Scoring
-- AI features removed: Einstein Activity Capture, Lead Scoring
-- AI features added: Unmetered Agentforce usage, Full suite of AI
-- AI features removed: Opportunity Scoring, Call Summaries, Einstein Activity Capture, Einstein Predictive Forecasting, Einstein Conversation Insights, Sales Signals, Lead Scoring
-- AI features added: Einstein Conversation Insights, Agentforce
-- AI features removed: Opportunity Scoring, Einstein Predictive Forecasting
-
-### Seamless.ai
-
-- AI features removed: AI Assistant (Add-on)
-- AI features removed: AI Assistant (Add-on)
+- AI features added: Einstein Activity Capture
+- AI features removed: Einstein Conversation Insights
+- AI features added: Einstein Conversation Insights, Sales Signals, Agentforce Employee Agent Sales Actions, Agentforce Pipeline Management, Agentforce Lead Nurture, Einstein Activity Capture, Agentforce Sales Coaching, Einstein Predictive Forecasting, Full suite of AI features, Tableau Next Agentic Analytics, Call Summaries
+- AI features removed: Agentforce: Lead Nurture, Agentforce: Pipeline Management, Agentforce: Sales Coaching, Agentforce: Employee Agent Sales Actions, Full suite of AI
+- AI features added: Einstein Lead Scoring, Einstein Opportunity Scoring
+- AI features added: Agentforce
+- AI features removed: Lead Scoring, Einstein Activity Capture, Opportunity Scoring
 
 ### Showpad
 
-- AI features added: Roleplay AI, Vision Intelligence, Analytics AI
-- AI features removed: Custom agents, Voice
-- AI features added: Vision Intelligence
-
-### Spiff
-
-- Number of tiers changed from 1 to 3
-- New tier 'salesforce spiff additional connectors' added
-- New tier 'salesforce spiff premium support' added
+- AI features removed: Vision Intelligence
+- AI features added: Custom agents, Voice agents
+- AI features removed: Roleplay AI, Analytics AI, Vision Intelligence, Genie Agents
 
 ### Streak
 
-- AI features added: 20 AI credits per user per month, Deal summaries, Automated AI actions, Deal Q&A, Autofill deal data
-- AI features removed: AI credits (10 per user per month), Formulas
-- AI features added: Create meeting agendas, Autofill with web research, Automated AI actions, 150 AI credits per user per month
-- AI features removed: AI Co-Pilot, Auto-create meeting agendas, AI credits (50 per user per month)
-- AI features added: Create meeting agendas, 500 AI credits per user per month, Autofill with web research, Automated AI actions
-- AI features removed: AI Co-Pilot, Auto-create meeting agendas, AI credits (500 per user per month)
+- AI features added: Auto-create meeting agendas
+- AI features removed: Create meeting agendas, Automated AI actions, Autofill with web research
+- AI features removed: Deal Q&A, Automated AI actions, Autofill deal data, Autofill with web research, Create meeting agendas, Pipeline creator, Deal summaries
+- AI features added: Formulas (AI-powered)
+- AI features removed: Deal Q&A, Automated AI actions, Autofill deal data, Deal summaries
+
+### SugarCRM
+
+- AI features added: AI summaries, Intelligent opportunity prioritization
+- AI features removed: Revenue Intelligence, Intelligent lead prioritization, Sentiment analysis, Generative AI
+- AI features added: Enhanced forecasting
 
 ### Terret
 
-- New company added to dataset
+- Company no longer in dataset
 
-### Yesware
+### Xactly
 
-- New tier 'free forever' added
-- Tier 'free' was removed
+- AI features added: Proactive Insights, AI Agents
+- AI features removed: AI Agents & Proactive Insights
