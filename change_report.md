@@ -1,595 +1,604 @@
 # SaaS Pricing Change Report
 
-**Period:** 2026-04-27 to 2026-05-05
-**Generated:** 2026-05-05 11:40
+**Period:** 2026-05-05 to 2026-05-13
+**Generated:** 2026-05-13 13:57
 
 ## Summary
 
-- **317** pricing changes detected
-- **84** companies made changes
+- **332** pricing changes detected
+- **83** companies made changes
 
 ## Changes by Type
 
-- **Ai Feature Removed**: 111
-- **Ai Feature Added**: 100
-- **Tier Removed**: 34
-- **Tier Added**: 22
-- **Model Change**: 19
-- **Tier Count Change**: 19
-- **Free Tier Removed**: 3
-- **Company Added**: 3
-- **Free Tier Added**: 2
-- **Price Decrease**: 2
+- **Ai Feature Added**: 120
+- **Ai Feature Removed**: 113
+- **Tier Added**: 31
+- **Tier Removed**: 25
+- **Model Change**: 20
+- **Tier Count Change**: 12
+- **Price Increase**: 8
+- **Company Removed**: 2
 - **Pricing Hidden**: 1
-- **Pricing Revealed**: 1
 
 ## Changes by Company
 
 ### ActiveCampaign
 
-- Pricing model changed from hybrid to custom_only
-- AI features added: Active Intelligence (limits apply)
-- AI features removed: Active Intelligence (limited access), AI-suggested segments, AI image generation, AI brand kit, Conditional content, Suggested actions, Predictive sending, AI content generation
-- AI features added: Predictive & conditional content, AI conversation summaries, AI actions, AI reply suggestions, AI translations
-- AI features removed: Account & industry-based send times, Suggested actions, AI brand kit, Spam check
-- AI features added: Active Intelligence (limits apply)
-- AI features removed: Active Intelligence (limited access), AI-suggested segments, AI image generation, AI-powered automation builder, AI brand kit, Suggested actions, AI campaign calendar, AI campaign follow-up, AI campaign builder, Predictive sending, AI content generation, Spam check
-- AI features added: Predictive & conditional content, AI conversation summaries, AI actions, AI reply suggestions, AI translations
-- AI features removed: Account & industry-based send times, Suggested actions, AI brand kit, Spam check
+- AI features added: Conditional content, Predictive sending
+- AI features added: Win probability, AI brand kit, Lead scoring, Conditional content
+- AI features removed: AI reply suggestions, Predictive & conditional content, AI translations, AI conversation summaries, AI actions
+- AI features added: AI brand kit, Predictive sending, AI content generation, AI-suggested segments, AI image generation, AI campaign calendar, Conditional content
+- AI features added: Win probability, AI brand kit, Lead scoring, Conditional content
+- AI features removed: AI reply suggestions, Predictive & conditional content, AI translations, AI conversation summaries, AI actions
 
 ### Adalysis
 
-- Public pricing was removed (moved to contact sales)
+- Tier 'tier 2' was removed
+- Tier 'tier 3' was removed
+- New tier 'starter' added
+- New tier 'professional' added
+- Tier 'tier 1' was removed
+- New tier 'enterprise' added
 
 ### Agorapulse
 
-- Free tier was removed
-- AI features removed: Agorapulse AI
-- AI features removed: AI summary
+- Pricing model changed from per_seat to hybrid
+- AI features added: AI-powered reply suggestions
+- AI features removed: Organization Context AI
+- AI features added: AI summary
+- AI features removed: Organization Context AI
 
 ### Ahrefs
 
-- Number of tiers changed from 8 to 4
-- AI features added: AI Content Helper
-- AI features removed: AI Content Helper (add-on)
-- Tier 'brand radar ai - basic' was removed
-- Tier 'brand radar ai - growth' was removed
-- AI features added: Keyword clusters
-- AI features removed: AI Content Helper (add-on)
-- Tier 'brand radar ai - scale' was removed
-- AI features removed: AI suggestions, AI Content Helper (add-on)
-- Tier 'enterprise' was removed
+- AI features added: Brand Radar, Custom Prompts
+- AI features removed: Custom prompts, AI Content Helper
+- AI features added: Brand Radar, Custom Prompts, AI suggestions
+- AI features added: Brand Radar, Custom Prompts
+- AI features removed: Keyword clusters
 
 ### Allego
 
-- AI features added: GenAI-powered search and filtering
-- AI features removed: AI-driven content personalization, GenAI powered search and filtering
-- AI features added: GenAI-powered search
-- AI features removed: GenAI powered search
-- AI features removed: Conversation Intelligence
+- AI features added: GenAI powered search and filtering
+- AI features removed: GenAI-powered search and filtering
+- AI features added: GenAI powered search and filtering, Automated coaching guidance, AI-generated highlights, AI-driven reinforcement drills
+- AI features removed: Conversation Intelligence, GenAI-powered search, Automated coaching, AI-driven reinforcement
 
 ### Amplitude
 
-- Pricing model changed from hybrid to usage_based
-- Number of tiers changed from 3 to 4
-- AI features added: AI Visibility (2500 prompts)
-- AI features added: AI-powered analysis, AI Visibility (1000 prompts)
-- New tier 'enterprise' added
+- AI features removed: AI Visibility (2500 prompts)
+- AI features removed: AI-powered analysis, AI Visibility (1000 prompts)
+- AI features added: AI-powered analysis
+- AI features removed: AI Visibility (5000 prompts), Multi-armed Bandits
 
 ### Attio
 
-- AI features added: Auto-labeling, Auto-summaries
+- Pricing model changed from per_seat to hybrid
+- AI features added: Call Intelligence
 
 ### Avoma
 
-- Free tier was added
-- Tier 'revenue intelligence add-on' was removed
-- Tier 'conversation intelligence add-on' was removed
-- AI features added: Custom AI Notes, AI Automations, Limited Conversation Intelligence
-- AI features removed: AI Email Templates, Translate Transcription & Notes, Smart Playlist & AI Automations, Conversation Intelligence
-- AI features added: Ask Avoma
-- AI features removed: Ask Avoma AI Copilot
-- New tier 'lead router (add-on)' added
-- New tier 'conversation intelligence (add-on)' added
-- New tier 'revenue intelligence (add-on)' added
-- Tier 'lead router add-on' was removed
-- AI features removed: AI Email Templates, Conversation Intelligence, AI Summary Notes, Smart Playlist & AI Automations, AI Meeting Assistant, Custom AI Topics & Templates
+- AI features added: Custom AI Email Templates, Smart Playlist & AI Automations
+- AI features removed: AI Automations
+- Tier 'revenue intelligence (add-on)' was removed
+- Tier 'conversation intelligence (add-on)' was removed
+- New tier 'lead router add-on' added
+- AI features added: Ask Avoma for a Meeting
+- AI features removed: Ask Avoma
+- New tier 'revenue intelligence add-on' added
+- Tier 'lead router (add-on)' was removed
+- New tier 'conversation intelligence add-on' added
+- AI features added: All AI features from Organization tier
 
 ### Brevo (Sendinblue)
 
-- Pricing model changed from unknown to freemium
-- Pricing was made public
-- Number of tiers changed from 4 to 3
-- AI features added: AI recommendations
-- AI features removed: Advanced ecommerce features with AI recommendations
-- Tier 'enterprise' was removed
+- Pricing model changed from freemium to unknown
+- Public pricing was removed (moved to contact sales)
+- AI features added: AI send time optimization
+- AI features removed: AI recommendations
+- AI features removed: AI send time optimization
 
 ### Buffer
 
-- AI features added: AI replies (unlimited)
-- AI features removed: Unlimited AI reply suggestions
-- AI features added: AI replies (5 suggestions per week)
-- AI features removed: 5 AI reply suggestions per week
-- AI features added: AI replies (unlimited)
-- AI features removed: Unlimited AI reply suggestions
+- Pricing model changed from freemium to hybrid
+- AI features added: Unlimited AI replies
+- AI features removed: AI replies (unlimited)
+- AI features added: Unlimited AI replies
+- AI features removed: AI replies (unlimited)
 
 ### Clearscope
 
-- Number of tiers changed from 4 to 2
-- AI features added: AI answers monitoring, Prompt Tracking for ChatGPT and Gemini, Deep language analysis
-- AI features added: AI answers monitoring, Prompt Tracking for ChatGPT and Gemini, Deep language analysis
-- Tier 'additional pages' was removed
-- Tier 'additional drafts' was removed
+- AI features removed: Deep language analysis, Prompt Tracking for ChatGPT and Gemini, AI answers monitoring
+- AI features removed: Deep language analysis, Prompt Tracking for ChatGPT and Gemini, AI answers monitoring
 
 ### Close
 
-- AI features added: Chloe (AI sales agent) - free in beta
-- AI features removed: Chloe (AI sales agent), Meeting Notetaker, AI Enrich (usage-based), AI Email Rewrite
-- AI features added: Chloe (AI sales agent) - free in beta
-- AI features removed: Chloe (AI sales agent), AI Enrich (usage-based), AI Email Rewrite
+- AI features added: Chloe (AI sales agent), AI Enrich (usage-based)
+- AI features removed: Chloe (AI sales agent) - free in beta
+- AI features added: Chloe (AI sales agent), AI Enrich (usage-based)
+- AI features removed: Chloe (AI sales agent) - free in beta
 
 ### Cognism
 
-- Pricing model changed from custom_only to hybrid
+- Pricing model changed from hybrid to custom_only
+- AI features added: AI company research, AI search, AI persona builder
+- AI features removed: Cognism AI: Search, Cognism AI: Company Research, Cognism AI: Persona Builder
+- AI features added: AI company research, AI search, AI persona builder
+- AI features removed: Cognism AI: Search, Cognism AI: Company Research, Cognism AI: Persona Builder
 
-### Conductor
+### Copper
 
-- Pricing model changed from usage_based to custom_only
-- Free tier was removed
-- Number of tiers changed from 3 to 0
-- Tier 'growth' was removed
-- Tier 'essentials' was removed
-- Tier 'enterprise' was removed
-
-### ConvertKit
-
-- Pricing model changed from freemium to flat_rate
+- AI features added: AI email template generator, AI email re-writer
 
 ### Copy.ai
 
-- AI features added: Anthropic integration, AI Chat, Gemini integration, OpenAI integration
-- AI features removed: Gemini models, Chat, OpenAI, Anthropic
+- AI features added: AI-powered actions, Workflows
+- AI features removed: AI Workflows, Workflow Credits
+- AI features added: AI-powered actions, Workflows
+- AI features removed: AI Workflows, Workflow Credits
+- AI features added: AI-powered actions, Workflows
+- AI features removed: AI Workflows, Workflow Credits
+- AI features added: Access to OpenAI models, Access to Gemini models, Chat, Access to Anthropic models
+- AI features removed: Gemini integration, Anthropic integration, AI Chat, OpenAI integration
 
 ### Customer.io
 
-- AI features removed: In-app message suggestions
-- AI features added: Send-time optimization
-- AI features removed: LLM actions (beta)
-
-### DealHub
-
-- AI features removed: AI Contract Search & Insights (coming soon)
+- AI features added: Suggested segments, LLM actions
+- AI features added: In-app message suggestions, LLM actions
+- AI features removed: LLM actions (beta), Email content analysis
 
 ### Dealfront
 
-- Pricing model changed from hybrid to usage_based
-- AI features added: Lead scoring and prioritization
-- AI features removed: Leadfeeder AI
+- AI features added: AI enrichment for company and contact information
+- AI features removed: AI enrichment, Lead scoring and prioritization
 
 ### DocuSign
 
-- AI features added: AI-assisted summary
-- AI features added: AI-assisted summary
+- AI features removed: AI-assisted summary
+- AI features removed: AI-assisted summary
 
 ### Dreamdata
 
-- AI features added: AI-based Attribution, Measure marketing impact with AI, AI to identify and target ideal buyers
-- AI features removed: AI-powered buyer identification, AI and custom attribution models, AI-based attribution
+- AI features added: AI-powered buyer identification, Advanced Attribution with AI, AI-based attribution
+- AI features removed: AI to identify and target ideal buyers, Measure marketing impact with AI, AI-based Attribution
 
 ### Drip
 
-- Tier 'starter' was removed
-- New tier 'standard' added
-
-### Everstage
-
-- Pricing model changed from unknown to custom_only
+- New tier 'starter' added
+- Tier 'standard' was removed
 
 ### Fathom
 
-- AI features added: Ask Fathom: AI for all calls
-- AI features removed: Conversational meeting assistant, Account-wide Ask Fathom (beta), Claude & ChatGPT Integrations
-- AI features added: Ask Fathom: AI within a single call, AI search alerts
-- AI features removed: Conversational meeting assistant, Ask Fathom (limited use), AI search alerts (limited use)
-- AI features added: Ask Fathom: AI within a single call
-- AI features removed: Ask Fathom (limited use)
+- AI features added: Conversational meeting assistant, Custom meeting bot
+- AI features removed: Ask Fathom: AI for all calls
+- AI features added: Custom meeting bot
+- AI features removed: Ask Fathom: AI within a single call
+- AI features removed: Automated summaries
+- AI features added: Conversational meeting assistant, Custom meeting bot
+- AI features removed: Ask Fathom: AI within a single call
 
 ### Fireflies.ai
 
-- AI features removed: AI Skills, Voice Agents
-- AI features added: Multi-language Mode
-- AI features removed: AI Skills, Voice Agents
+- AI features removed: Conversation intelligence
+- AI features removed: Multi-language Mode
+- AI features removed: AskFred: AI assistant
 
 ### Folk
 
-- AI features added: Follow-up Assistant, Relationship intelligence, Research Assistant, Magic fields (AI), Workflow Assistant, AI Assistants, Recap Assistant
-- AI features added: Follow-up Assistant, Research Assistant, Workflow Assistant, Relationship intelligence, Recap Assistant
+- AI features added: Custom AI field limits, Custom enrichment limits
+- AI features removed: Workflow Assistant, Magic fields (AI), Recap Assistant, AI Assistants, Relationship intelligence, Follow-up Assistant, Research Assistant
+- AI features added: Enhanced AI credits
+- AI features removed: Workflow Assistant, Recap Assistant, Relationship intelligence, Follow-up Assistant, Research Assistant
 
 ### Frase
 
-- AI features removed: Multi-channel content creation
+- AI features added: SERP research
+- AI features added: Multi-channel content creation
 
 ### FullStory
 
-- Pricing model changed from unknown to custom_only
-- AI features added: StoryAI Summaries
-- AI features removed: AI-Powered Fullcapture, StoryAI
+- Pricing model changed from custom_only to unknown
+- AI features added: Metric Insights
+- AI features added: StoryAI, GenAI and LLMs support, Predictive modeling
+- AI features removed: StoryAI Summaries
 
 ### GetAccept
 
-- Number of tiers changed from 3 to 2
-- AI features added: AI contract management (add-on), Unlimited AI content (add-on)
-- Tier 'enterprise' was removed
+- Number of tiers changed from 2 to 3
+- AI features removed: Unlimited AI content (add-on), AI contract management (add-on)
+- New tier 'enterprise' added
 
 ### Heap
 
-- AI features added: Sense Contentsquare's AI: AI Powered Assistant
-- AI features removed: Sense Contentsquare's AI, AI Powered Assistant
-- AI features added: Sense Contentsquare's AI: AI Powered Assistant
-- AI features removed: Sense Contentsquare's AI, AI Powered Assistant
-- AI features added: Sense Contentsquare's AI: AI Powered Assistant
-- AI features removed: Sense Contentsquare's AI, AI Powered Assistant
+- AI features added: AI Powered Assistant, Sense Contentsquare's AI
+- AI features removed: Sense Contentsquare's AI: AI Powered Assistant
+- AI features added: AI Powered Assistant, Sense Contentsquare's AI
+- AI features removed: Sense Contentsquare's AI: AI Powered Assistant
+- AI features added: AI Powered Assistant, Sense Contentsquare's AI
+- AI features removed: Sense Contentsquare's AI: AI Powered Assistant
 
 ### Highspot
 
-- Tier 'good - equip and engage' was removed
-- New tier 'best' added
-- New tier 'good' added
-- Tier 'better - train and practice' was removed
-- New tier 'better' added
-- Tier 'best - coach and reinforce' was removed
+- Tier 'good' was removed
+- New tier 'better - train and practice' added
+- Tier 'best' was removed
+- Tier 'better' was removed
+- New tier 'good - equip and engage' added
+- New tier 'best - coach and reinforce' added
 
 ### Hightouch
 
-- Number of tiers changed from 1 to 3
-- New tier 'agentic marketing platform' added
-- New tier 'composable cdp' added
+- Number of tiers changed from 3 to 0
+- Tier 'agentic marketing platform' was removed
+- Tier 'composable cdp' was removed
+- Tier 'basic reverse etl' was removed
 
 ### Hootsuite
 
-- AI features removed: Blue Silk AI summaries, AI-powered smart replies
+- AI features added: Blue Silk AI summaries, AI caption enhancements (OwlyWriter), AI forecasting
+- AI features removed: AI caption enhancements
+- AI features added: AI caption enhancements (OwlyWriter)
+- AI features removed: AI caption enhancements
 
 ### Hunter.io
 
-- Pricing model changed from usage_based to hybrid
-- AI features added: 150 included proactive suggestions per month, 50 included AI searches per month
-- AI features added: 450 included proactive suggestions per month, 150 included AI searches per month
-- AI features added: 300 included AI searches per month, 900 included proactive suggestions per month
-- AI features added: 15 included proactive suggestions per month, 10 included AI searches per month
+- Pricing model changed from hybrid to usage_based
+- AI features added: AI Assistant in Discover (50 included searches/month)
+- AI features removed: AI Assistant in Discover, 50 included AI searches per month
+- AI features added: AI Assistant in Discover (300 included searches/month)
+- AI features removed: AI Assistant in Discover, 300 included AI searches per month
+- AI features added: AI Assistant in Discover (10 included searches/month)
+- AI features removed: 10 included AI searches per month, AI Assistant in Discover
+- AI features added: AI Assistant in Discover (150 included searches/month)
+- AI features removed: 150 included AI searches per month, AI Assistant in Discover
 
 ### Insightly
 
-- New company added to dataset
+- Pricing model changed from per_seat to hybrid
+- Number of tiers changed from 3 to 9
+- New tier 'support & ticketing enterprise' added
+- New tier 'marketing plus' added
+- New tier 'support & ticketing professional' added
+- AI features added: Email summaries and replies
+- New tier 'marketing enterprise' added
+- New tier 'support & ticketing plus' added
+- New tier 'marketing professional' added
+- AI features added: Email summaries and replies
 
 ### Instantly
 
-- Number of tiers changed from 6 to 3
-- Tier 'supersonic' was removed
-- Tier 'hyper credits' was removed
-- Tier 'growth (instantly credits)' was removed
+- Number of tiers changed from 3 to 6
+- New tier 'supersonic' added
+- New tier 'growth (lead database)' added
+- New tier 'hyper credits' added
 
 ### Invoca
 
-- AI features added: PreSense
-- AI features removed: Signal AI conversation analytics suite (add-on), AI-Powered Quality Management (add-on), PreSense (included)
-- AI features removed: Signal AI conversation analytics suite (add-on), PreSense AI-Powered Quality Management (add-on)
-- AI features removed: Signal AI conversation analytics suite (add-on), PreSense AI-Powered Quality Management (add-on)
+- AI features added: AI-Powered Quality Management (add-on), Signal AI conversation analytics suite (add-on)
+- AI features added: AI-Powered Quality Management (add-on), PreSense (included), Signal AI conversation analytics suite (add-on)
+- AI features removed: PreSense
+- AI features added: AI-Powered Quality Management (add-on), Signal AI conversation analytics suite (add-on)
 
 ### Jasper
 
-- Number of tiers changed from 2 to 1
-- Tier 'business' was removed
-- AI features added: Knowledge AI, AI Content Creation, Image Generation, AI Chat, Marketing Best Practices AI, Image Background Removal, Image Upscaling, Audience Intelligence
-- AI features removed: Image Generation & Editing, Canvas platform, Marketing Best Practices knowledge layer, Chat, AI Agents
+- Number of tiers changed from 1 to 2
+- New tier 'business' added
+- AI features added: Advanced language models, Marketing Best Practices knowledge layer, Context-aware intelligence, Multi-Modal Company Knowledge, Intuitive agents, AI Image Suite
+- AI features removed: Marketing Best Practices AI, AI Content Creation, Brand Voice AI, Audience Intelligence, AI Chat, Image Upscaling, Image Background Removal, Knowledge AI, Image Generation, Plagiarism Checker
 
 ### Kaspr
 
-- AI features added: Intent data
+- AI features removed: Intent data
 
 ### Klaviyo
 
-- AI features added: Marketing Agent for campaign creation
-- AI features removed: Marketing Agent
+- AI features added: Marketing Agent
+- AI features removed: Marketing Agent for campaign creation
 
 ### Klenty
 
-- Pricing model changed from hybrid to per_seat
+- Tier 'parallel dialer add-on' was removed
+- AI features added: Action AI
+- AI features removed: Action AI (Automatic Execution of Next Steps Post-Conversation), Live Transcription, Coaching Summary
+- New tier 'parallel & power dialer' added
 
 ### Later
 
-- AI features added: AI content tools (Caption Writer, Ideas), 5 AI credits per month
-- AI features removed: AI content tools, Ideas, Caption Writer
-- AI features added: AI content tools (Caption Writer, Ideas), 50 AI credits per month
-- AI features removed: AI content tools, Ideas, Caption Writer
-- AI features added: AI content tools (Caption Writer, Ideas), 100 AI credits per month
-- AI features removed: AI content tools, Ideas, Caption Writer
+- AI features added: Ideas, Caption Writer
+- AI features removed: AI content tools (Caption Writer, Ideas), 5 AI credits per month
+- AI features added: Ideas, Caption Writer
+- AI features removed: AI content tools (Caption Writer, Ideas), 100 AI credits per month
+- AI features added: Ideas, Caption Writer
+- AI features removed: AI content tools (Caption Writer, Ideas), 50 AI credits per month
 
 ### LeadIQ
 
-- AI features added: LeadIQ AI Outbound Message Writer
+- AI features removed: LeadIQ AI Outbound Message Writer
 
 ### Lemlist
 
-- Free tier was removed
-- Number of tiers changed from 2 to 4
-- New tier 'data & lead generation - email finder' added
-- New tier 'data & lead generation - intent signals' added
+- Pricing model changed from hybrid to per_seat
+- Number of tiers changed from 4 to 2
 - AI features removed: AI agents, AI variables
+- Tier 'data & lead generation - intent signals' was removed
+- Tier 'data & lead generation - email finder' was removed
 
 ### LinkedIn Sales Navigator
 
-- AI features added: Account IQ & Lead IQ
-- AI features removed: Lead IQ, Account IQ
-- AI features added: Account IQ & Lead IQ
-- AI features removed: Lead IQ, Account IQ
-- AI features added: Account IQ & Lead IQ
-- AI features removed: Lead IQ, Account IQ
+- AI features added: Account IQ, Lead IQ
+- AI features removed: Account IQ & Lead IQ
+- AI features added: Account IQ, Lead IQ
+- AI features removed: Account IQ & Lead IQ
+- AI features added: Account IQ, Lead IQ
+- AI features removed: Account IQ & Lead IQ
 
 ### LogRocket
 
-- Number of tiers changed from 4 to 3
-- AI features added: Severity scores, Issue descriptions
-- AI features removed: Severity scores, Issue descriptions
-- Tier 'enterprise' was removed
+- Number of tiers changed from 3 to 4
+- AI features removed: Issue descriptions, Ask Galileo, Recommended issues, Severity scores
+- New tier 'enterprise' added
 
 ### Loomly
 
-- AI features added: Post generation (4 per month), Social listening (1 per month)
-- AI features removed: Reply with AI, Post generation
-- AI features added: Social listening (unlimited), Post generation (unlimited)
-- AI features removed: Social listening, Post generation
+- AI features added: Post generation (1 per month), Social listening, Reply with AI, AI analytics
+- AI features removed: Social listening (1 per month), Post generation (4 per month)
+- AI features added: Social listening, Post generation (4 per month)
+- AI features removed: Social listening (unlimited), Post generation (unlimited)
 
 ### Lucky Orange
 
-- AI features removed: Discovery AI
-- AI features removed: Discovery AI
-- AI features removed: Discovery AI
-- AI features removed: Discovery AI
+- Price increase from $839 to $1049 (+25.0%)
+- AI features added: Discovery AI
+- Price increase from $32 to $39 (+21.9%)
+- AI features added: Discovery AI
+- Price increase from $72 to $90 (+25.0%)
+- AI features added: Discovery AI
+- Price increase from $199 to $249 (+25.1%)
+- AI features added: Discovery AI
 
 ### Lytics
 
-- Number of tiers changed from 3 to 2
-- Tier 'enterprise' was removed
+- Number of tiers changed from 2 to 3
+- New tier 'enterprise' added
+- AI features added: Schema Copilot
+- AI features added: Webhook Copilot
 
 ### Mailchimp
 
-- Pricing model changed from hybrid to usage_based
-- AI features removed: Actionable insights into audience growth and conversion funnels, Enhanced automations
-- AI features removed: Predictive segmentation
-
-### MailerLite
-
-- Number of tiers changed from 3 to 2
-- Tier 'free' was removed
+- Pricing model changed from usage_based to hybrid
 
 ### Mailshake
 
-- Number of tiers changed from 3 to 4
-- New tier 'agency plan' added
+- Number of tiers changed from 4 to 3
+- AI features removed: AI email writing with SHAKESpeare
+- AI features removed: AI email writing with SHAKESpeare
+- Tier 'agency plan' was removed
 
 ### Mailstand
 
-- Pricing model changed from per_seat to usage_based
-- New tier 'professional' added
-- New tier 'enterprise' added
-- Tier 'growth' was removed
-- Tier 'scale' was removed
-- New tier 'business' added
-- Tier 'pro' was removed
+- Pricing model changed from usage_based to per_seat
+- Price increase from $35 to $50 (+42.9%)
+- Price increase from $50 to $95 (+90.0%)
+- New tier 'growth' added
+- Tier 'enterprise' was removed
 
 ### MarketMuse
 
-- AI features added: AI-powered content analysis, Proprietary algorithms for relevance classification
+- AI features removed: AI-powered content analysis, Proprietary algorithms for relevance classification
 
 ### Mixmax
 
-- AI features added: Meeting transcription, Meeting summaries, Follow-up email drafting, AI prep doc
-- AI features removed: Automatic meeting followups, Instant meeting notes, Meeting Copilot, Pre-meeting prep with AI
-- AI features added: Signal tracking
-- AI features removed: Engagement Copilot
-- AI features added: Smart Send, Inbox categorization, Smart Compose
-- AI features removed: Smart send, Smart signals, Smart compose, Inbox Copilot
-- AI features added: Meeting summaries
-- AI features removed: Automatic meeting followups, Smart send
+- AI features removed: Signal tracking
+- AI features added: Smart signals
+- AI features removed: Inbox categorization
+- AI features added: Meeting prep and summaries, Smart Compose, Smart Send
+- AI features removed: Smart compose, Meeting summaries
+- AI features added: Instant meeting notes, Automatic follow-up generation
+- AI features removed: Meeting summaries, Follow-up email drafting, Meeting transcription
 
 ### Mixpanel
 
-- AI features added: Spark AI query builder (60 queries/month), Anomaly detection, Root cause analysis
-- AI features removed: Spark AI query builder
-- AI features added: Spark AI query builder (30 queries/month)
-- AI features removed: Spark AI query builder
-- AI features added: Anomaly detection, Root cause analysis, Spark AI query builder (300 queries/month)
-- AI features removed: Spark AI query builder
+- Pricing model changed from freemium to hybrid
+- AI features removed: Anomaly detection, Root cause analysis
+- AI features removed: Anomaly detection, Root cause analysis
 
 ### Monday Sales CRM
 
-- AI features added: Monday AI, AI credits
-- AI features removed: Monday AI credits
-- AI features added: Monday AI, AI credits
-- AI features removed: Monday AI credits
-- AI features added: Monday AI, AI credits
-- AI features removed: Monday AI credits
-- AI features added: Monday AI, AI credits
-- AI features removed: Monday AI credits
+- Number of tiers changed from 4 to 3
+- AI features added: Monday AI credits
+- AI features removed: AI credits, Monday AI, AI email generator
+- Tier 'ultimate' was removed
+- AI features added: Monday AI credits
+- AI features removed: AI credits, Monday AI
+- AI features added: Monday AI credits
+- AI features removed: AI credits, Monday AI
 
 ### Moosend
 
-- AI features removed: AI-Engine Product Recommendations
+- Pricing model changed from usage_based to hybrid
+- Tier 'email credits' was removed
+- AI features added: Audience Discovery
+- New tier 'credits' added
+- AI features added: AI-Engine Product Recommendations
 
 ### Moz
 
-- AI features added: Tracked Prompts (GPT & Gemini), AI Visibility Dashboards, AI Content Briefs
-- AI features removed: 50 AI Content Briefs per month, 200 Tracked Prompts per month (GPT & Gemini), 4 AI Visibility Dashboards
-- AI features added: AI Content Briefs
-- AI features removed: 2 AI Content Briefs per month
-- AI features added: Tracked Prompts (GPT & Gemini), AI Visibility Dashboards, AI Content Briefs
-- AI features removed: 100 Tracked Prompts per month (GPT & Gemini), 2 AI Visibility Dashboards, 10 AI Content Briefs per month
+- AI features added: AI Prompt Suggestions
+- AI features removed: AI Prompt Suggestions tracking
+- AI features added: AI Prompt Suggestions
+- AI features removed: AI Prompt Suggestions tracking
 
 ### Nimble
 
-- Tier 'standard' was removed
-- New tier 'standard plan' added
+- Tier 'standard plan' was removed
+- New tier 'standard' added
 
 ### Omnisend
 
-- Number of tiers changed from 3 to 4
-- New tier 'custom' added
-- Price decrease from $44 to $11.2 (-74.5%)
-- AI features added: Forms AI
-- Price decrease from $44 to $41.3 (-6.1%)
-- AI features added: Personalized product recommender AI, Dynamic content AI, Forms AI, AI powered personalizations
+- Pricing model changed from usage_based to hybrid
 
 ### Optmyzr
 
-- Number of tiers changed from 3 to 2
-- Tier 'enterprise' was removed
-- AI features added: Spend Analysis and AI-Based Predictions
-- AI features removed: Spend analysis and AI-based predictions
+- Pricing model changed from unknown to usage_based
+- AI features added: AI-Based Predictions for budget spend analysis
+- AI features removed: Spend Analysis and AI-Based Predictions
+- AI features removed: AI-Powered Account Insights and Ad Copy Optimization
 
 ### Otter.ai
 
-- Pricing model changed from per_seat to hybrid
-- AI features added: Automated slide capture, Automated summaries with action items, AI Chat (50 queries/user/month)
-- AI features added: Video replay for Zoom and Google Meet, Automated summaries, Otter Sales Notetaker, AI Chat (200 queries/user/month)
-- AI features added: Automated transcription, AI Chat, Automated summaries
-- AI features removed: AI Chat within and across meetings
+- Pricing model changed from hybrid to freemium
+- AI features added: AI Chat (200 queries per user)
+- AI features removed: Otter Sales Notetaker, Video replay for Zoom and Google Meet, Automated summaries, AI Chat (200 queries/user/month)
+- AI features added: AI Chat (50 queries per user)
+- AI features removed: Automated summaries with action items, Automated slide capture, AI Chat (50 queries/user/month)
+- AI features added: AI Chat within and across meetings
+- AI features removed: AI Chat, Automated summaries, Automated transcription
+
+### Outreach
+
+- AI features added: 50,000 AI Credits
+- AI features added: Full Suite of Agents & AI, 100,000 AI Credits
+- AI features added: 25,000 AI Credits
 
 ### PandaDoc
 
-- Number of tiers changed from 3 to 4
-- New tier 'free' added
-- Tier 'launch' was removed
-- New tier 'enterprise' added
-
-### Pipedrive
-
-- New company added to dataset
+- Number of tiers changed from 4 to 3
+- Price increase from $19 to $22.8 (+20.0%)
+- Price increase from $49 to $58.8 (+20.0%)
+- Tier 'enterprise' was removed
 
 ### PostHog
 
-- AI features added: PostHog AI (additional credits at $0.01/credit)
-- AI features removed: PostHog AI
-- AI features added: PostHog AI (2K credits)
-- AI features removed: PostHog AI
+- AI features added: PostHog AI ($0.01 per credit after 2K free)
+- AI features removed: PostHog AI (additional credits at $0.01/credit)
+- AI features added: PostHog AI (2K credits/month)
+- AI features removed: PostHog AI (2K credits)
 
 ### Publer
 
-- AI features added: AI Assistant for content generation, AI Bio Generator, AI Hashtag Generator, AI Post Generator
-- AI features removed: Spintax-powered post recycling, AI-powered hashtag suggestions
+- AI features removed: AI Bio Generator, AI Post Generator, AI Hashtag Generator
 
 ### Refract
 
-- New company added to dataset
+- Company no longer in dataset
 
 ### Revenue.io
 
-- AI features removed: Deal Scoring & Pipeline Risk Insights
-- AI features removed: Dynamic Lead Prioritization
+- AI features added: Dynamic Lead Prioritization
+- AI features added: Agentic AI custom agents, Ask Revenue (AI queries), Forecast Analyzer, AI call summaries, Deal Scoring & Pipeline Risk, Revenue Intelligence Dashboard
+- AI features removed: AI call + deal summaries, Agentic AI to build custom agents, Ask Revenue (AI Deal/Call/Account queries)
+
+### RudderStack
+
+- Number of tiers changed from 3 to 4
+- New tier 'enterprise' added
 
 ### SE Ranking
 
-- Pricing model changed from flat_rate to hybrid
-- AI features added: AI Sources tracking, AI Overviews Tracker, AI prompts for tracking, AI Mode Tracker, AI competitive research
-- AI features removed: AI competitive research for 15 domains, 250 prompts per day
-- AI features added: AI prompts for tracking, AI competitive research
-- AI features removed: 100 prompts per day, AI competitive research for 5 domains
+- AI features added: AI prompts (250 daily), AI Sources tracking (unlimited)
+- AI features removed: AI Sources tracking, AI prompts for tracking
+- AI features added: AI prompts (100 daily)
+- AI features removed: AI prompts for tracking
 
 ### Salesforce Sales Cloud
 
-- AI features removed: Einstein Activity Capture
-- AI features added: Einstein Activity Capture, Einstein Conversation Insights, Call Summaries, Sales Signals, Opportunity Scoring, Einstein Predictive Forecasting, Lead Scoring
-- AI features removed: Einstein Conversation Insights
+- AI features added: Agentforce
+- AI features removed: Lead Scoring, Opportunity Scoring, Einstein Activity Capture, Unmetered Agentforce usage, Full suite of AI
+- AI features added: Lead Scoring, Einstein Activity Capture
+- AI features added: Einstein Predictive Forecasting, Opportunity Scoring
 
 ### Seamless.ai
 
-- Pricing model changed from custom_only to hybrid
-- AI features removed: AI Assistant (Add-on)
-- AI features removed: AI Assistant (Add-on)
+- AI features added: AI Assistant (Add-on)
 
 ### Sendible
 
-- Pricing model changed from hybrid to flat_rate
-- AI features removed: AI Assist - Generate and optimise social media captions, Unlimited AI Credits
-- AI features removed: AI Assist - Generate and optimise social media captions, Unlimited AI Credits
-- AI features removed: AI Assist - Generate and optimise social media captions, Unlimited AI Credits
-- AI features removed: AI Assist - Generate and optimise social media captions, Unlimited AI Credits
+- Pricing model changed from flat_rate to hybrid
+- AI features added: Unlimited AI Credits, AI Assist
+- AI features added: AI Assist
+- AI features removed: AI Assist - Generate and optimise social media captions
+- AI features added: Unlimited AI Credits, AI Assist
+- AI features added: Unlimited AI Credits, AI Assist
+- AI features added: Unlimited AI Credits, AI Assist
 
 ### Showpad
 
-- AI features removed: Voice
-- AI features removed: Genie Agents
-- AI features added: Genie Agents
-- AI features removed: Select out-of-the-box agents
+- AI features added: Genie Assistant and Agents
+- AI features removed: Genie Agents, Genie Assistant
+- AI features added: Genie Assistant and Agents
+- AI features removed: Genie Agents, AI-Powered content governance
 
 ### Smartlead
 
-- Free tier was added
-- AI features removed: AI-powered GTM features, AI Subject Line Generator
-- AI features removed: AI-powered GTM features, AI Subject Line Generator
-
-### Smartlook
-
-- Pricing model changed from custom_only to unknown
+- Pricing model changed from flat_rate to usage_based
+- AI features added: AI-powered GTM features
+- AI features added: AI-powered GTM features
 
 ### SocialBee
 
-- AI features added: AI content generation
-- AI features removed: Unlimited AI content generation
-- AI features added: AI content generation
-- AI features removed: Unlimited AI content generation
-- AI features added: AI content generation
-- AI features removed: Unlimited AI content generation
-- AI features added: AI content generation
-- AI features removed: Unlimited AI content generation
-- AI features added: AI content generation
-- AI features removed: Unlimited AI content generation
-- AI features added: AI content generation
-- AI features removed: Unlimited AI content generation
+- AI features added: Unlimited AI content generation
+- AI features removed: AI content generation
+- AI features added: Unlimited AI content generation
+- AI features removed: AI content generation
+- AI features added: Unlimited AI content generation
+- AI features removed: AI content generation
+- AI features added: Unlimited AI content generation
+- AI features removed: AI content generation
+- AI features added: Unlimited AI content generation
+- AI features removed: AI content generation
+- AI features added: Unlimited AI content generation
+- AI features removed: AI content generation
 
 ### Spiff
 
-- New tier 'premium support' added
-- Tier 'salesforce spiff premium support' was removed
+- Tier 'salesforce spiff additional connectors' was removed
+- New tier 'additional connectors' added
 
 ### Sprout Social
 
-- AI features added: Sentiment tracking, AI-generated alt text, Enhance Reply by AI Assist, Enhance Post by AI Assist
-- AI features removed: AI Assist for reply enhancement, Sentiment analysis
-- AI features added: AI-generated alt text, Enhance Post by AI Assist
-- AI features removed: AI Assist for post enhancement
+- AI features removed: AI-generated alt text, Enhance Post by AI Assist
+- AI features removed: AI-generated alt text
+- AI features added: Unlimited AI-generated alt text
+- AI features removed: AI-generated alt text
 
 ### Streak
 
-- AI features added: 500 AI credits per user per month, Create meeting agendas, All AI features included
-- AI features removed: AI Co-Pilot with 500 credits/user/month, Auto-create meeting agendas
-- AI features added: AI Co-Pilot, Autofill with web research, 150 AI credits per user per month, Automated AI actions, Create meeting agendas
-- AI features removed: Auto-create meeting agendas, AI Co-Pilot with 150 credits/user/month
-- AI features added: Formulas (AI-powered), 20 AI credits per user per month, Deal Q&A, Autofill deal data, Deal summaries
-- AI features removed: AI Co-Pilot with 20 credits/user/month, Formulas with AI assistance
+- AI features added: Auto-create meeting agendas
+- AI features removed: Autofill with web research, Create meeting agendas, Automated AI actions
+- AI features added: All AI Co-Pilot features
+- AI features removed: All AI features included, Create meeting agendas, Deal summaries, Autofill deal data, Pipeline creator, Deal Q&A
+- AI features removed: Deal summaries, Autofill deal data, Deal Q&A
 
 ### SugarCRM
 
-- AI features added: Smart guides
-- AI features removed: Intelligent account management
+- AI features added: Sugar Intelligence, Smart Guides
+- AI features removed: Intelligent opportunity prioritization, AI summaries
+- AI features added: sales-i, Sugar Intelligence, Smart Guides
+- AI features removed: Enhanced forecasting, Smart guides
 
 ### Surfer SEO
 
-- Number of tiers changed from 4 to 5
-- AI features added: AI Detector
-- AI features added: Unlimited Custom AI Templates, Surfy AI Writing Assistant, Track AI Visibility (ChatGPT, Perplexity, Google AI Mode, Google Gemini)
-- AI features removed: AI Visibility Tracking, Custom AI Voices, AI Writing Assistant
-- AI features added: Track AI Visibility, Brand Knowledge for AI, Surfy AI Writing Assistant
-- AI features removed: AI Visibility Tracking, AI Writing Assistant
-- AI features added: Surfy AI Writing Assistant, Track AI Visibility (ChatGPT, Perplexity, Google AI Mode, Google Gemini), Custom Templates for AI
-- AI features removed: AI Visibility Tracking, AI Writing Assistant
-- New tier 'enterprise' added
+- Company no longer in dataset
 
-### Unbounce
+### Woodpecker
 
-- Number of tiers changed from 6 to 4
-- Tier 'concierge' was removed
-- Tier 'agency' was removed
+- Tier 'free' was removed
+- New tier 'usage-based pricing - contacted prospects' added
+
+### Writer
+
+- Pricing model changed from hybrid to unknown
+- AI features removed: Presentation generator, Agent Builder, File generation
+
+### Xactly
+
+- AI features added: AI Agents & Proactive Insights
+- AI features removed: Proactive Insights, AI Agents
+
+### Yesware
+
+- New tier 'free forever' added
+- Tier 'free' was removed
 
 ### mParticle
 
-- Pricing model changed from custom_only to usage_based
+- Pricing model changed from usage_based to custom_only
